@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ysrdevs
-- 👀 I’m interested in making software projects
+- 👋 Hi, I’m Yuvraj
+- 👀 I’m interested in working on AI software projects
 - 🌱 I’m currently learning ML and Web3
-- 💞️ I’m looking to collaborate on Web3
+- 💞️ I’m looking to collaborate on ML and Web3
 - 📫 How to reach me : singh.yuvraj31@icloud.com
 
 <!---
