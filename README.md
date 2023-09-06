@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Yuvraj
+- 👋 Hi, I’m UV
 - 👀 I’m interested in working on AI software projects
-- 🌱 I’m currently learning ML and Web3
-- 💞️ I’m looking to collaborate on ML and Web3
-- 📫 How to reach me : singh.yuvraj31@icloud.com
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me : uv@pinklemon8.com
 
 <!---
 ysrdevs/ysrdevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
