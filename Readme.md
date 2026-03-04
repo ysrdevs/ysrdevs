@@ -77,6 +77,70 @@ Focus: reliability, automation, and regulatory compliance.
 
 ---
 
+## Training Language Models for Pharma & Healthcare Compliance
+
+One of the areas I'm actively exploring is the development of **domain-specific language models for pharmacy operations and regulatory compliance**.
+
+Healthcare infrastructure relies heavily on complex regulatory frameworks, including:
+
+- NCPDP D.0 claims standards
+- FDA personal importation guidance
+- DEA controlled substance regulations
+- HIPAA / PHIA / PIPEDA privacy compliance
+- Insurance billing rules
+- Cross-border pharmaceutical shipping regulations
+
+Most of this knowledge currently lives in **PDF documents, government guidance pages, and institutional expertise**, making it difficult for developers and operators to use programmatically.
+
+### Goal
+
+Build language models that can assist with:
+
+- interpreting healthcare regulations
+- validating pharmacy workflows
+- auditing compliance procedures
+- explaining insurance claim responses
+- identifying regulatory risk in software systems
+
+### Training Data Sources
+
+Example structured and unstructured datasets include:
+
+- NCPDP telecommunications standards
+- FDA regulatory guidance
+- DEA controlled substance regulations
+- Health Canada drug regulations
+- insurance claim specifications
+- pharmacy operations SOPs
+- shipping compliance documentation
+- anonymized claim response data
+
+### Potential Applications
+
+- **Compliance copilots for pharmacy operators**
+- **Automated audit assistants**
+- **Developer tools for healthcare APIs**
+- **Real-time claim interpretation**
+- **Regulatory change monitoring**
+
+### Challenges
+
+Healthcare compliance models must prioritize:
+
+- factual correctness
+- traceable citations
+- regulatory jurisdiction awareness
+- privacy preservation
+- deterministic outputs where required
+
+Unlike general LLM applications, **incorrect answers in healthcare systems can have regulatory or legal consequences**, so system design must incorporate verification and structured validation layers.
+
+### Long-Term Vision
+
+The long-term goal is to build **AI systems that understand healthcare regulations deeply enough to assist in designing compliant software systems and operational workflows.**
+
+These systems should function less like chatbots and more like **compliance engines that help healthcare infrastructure operate safely and legally at scale.**
+
 ## Infrastructure & Technologies
 
 ### Backend
