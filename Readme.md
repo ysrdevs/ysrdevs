@@ -16,7 +16,7 @@ I prefer **clean architecture, simple interfaces, and systems that can run relia
 
 ## Current Role
 
-**CTO / Lead Engineer — Parkway Pharmacy*
+*CTO / Lead Engineer — Parkway Pharmacy*
 
 I lead the architecture and development of internal and external platforms supporting:
 
