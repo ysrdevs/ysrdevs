@@ -1,193 +1,40 @@
-UV *(You-vee)*
+# UV
 
-Systems Architect • Building High-Scale Pharmaceutical Infrastructure
+Systems Architect — Building high-scale pharmaceutical infrastructure.
 
----
+I design and build systems that process millions in medication inventory, claims transactions, and cross-border shipments. Clean architecture, simple interfaces, systems that run for years.
 
-## About Me
-
-I'm a systems-focused engineer and technology leader building large-scale healthcare and logistics platforms.
-
-My work sits at the intersection of **healthcare infrastructure, APIs, compliance, and distributed systems**. I design and build systems that process millions of dollars in medication inventory, claims transactions, and international shipments every month.
-
-I prefer **clean architecture, simple interfaces, and systems that can run reliably for years without constant babysitting.**
+**CTO / Lead Engineer**
 
 ---
 
-## Current Role
+### What I'm Building
 
-*CTO / Lead Engineer — Parkway Pharmacy*
+**Starlight API** — Modern REST API for NCPDP D.0 pharmacy claims. JSON in, JSON out. The first of its kind.
 
-I lead the architecture and development of internal and external platforms supporting:
+**Lymlight** — Full pharmacy operations platform. Orders, prescriptions, fulfillment, claims, compliance — one system replacing fragmented pharmacy software.
 
-- Cross-border pharmacy logistics
-- Prescription claims processing
-- Insurance eligibility and billing
-- Cold-chain medication shipping
-- Employer healthcare programs
-- Regulatory compliance automation
-
-The systems we run power operations shipping medication across the United States and Canada.
+**Shipping Infrastructure** — Custom logistics automation for medication fulfillment across US and Canada. FedEx, DHL, Canada Post, cold-chain, cross-border compliance.
 
 ---
 
-## Major Projects
+### Open Source
 
-### Starlight API
-A modern REST API for NCPDP D.0 pharmacy claims.
-
-- JSON in / JSON out, the first ever
-- Supports B1, B2, E1 transactions
-- No pharmacy NPI required
-- Designed for developers, not clearinghouses
-
-Goal: bring modern developer tooling to legacy pharmacy claims infrastructure.
+- [`@pinklemon8/better-auth-siws`](https://github.com/ysrdevs/better-auth-siws) — Sign In With Solana plugin for Better Auth
+- [`@pinklemon8/better-auth-webhooks`](https://github.com/ysrdevs/better-auth-webhooks) — Webhook plugin for Better Auth
 
 ---
 
-### Lymlight
-A full pharmacy operations platform.
+### Stack
 
-Features include:
-
-- Order intake and processing
-- Pharmacist workflow management
-- Conveyor and fulfillment integration
-- Employer healthcare program management
-- Automated compliance checks
-- Claims processing and eligibility verification
-
-Designed to replace fragmented pharmacy software stacks with a unified platform.
+TypeScript · Node.js · Bun · Python · Next.js · React · PostgreSQL · MySQL · DigitalOcean · Cloudflare · NCPDP D.0 · EDI
 
 ---
 
-### Shipping Infrastructure
-Custom logistics automation for medication fulfillment.
+### Philosophy
 
-Integrations include:
-
-- Canada Post
-- FedEx
-- DHL
-- Tariff calculation systems
-- Cross-border compliance validation
-- Cold-chain monitoring
-
-Focus: reliability, automation, and regulatory compliance.
+Build systems that still work ten years later.
 
 ---
-
-## Training Language Models for Pharma & Healthcare Compliance
-
-One of the areas I'm actively exploring is the development of **domain-specific language models for pharmacy operations and regulatory compliance**.
-
-Healthcare infrastructure relies heavily on complex regulatory frameworks, including:
-
-- NCPDP D.0 claims standards
-- FDA personal importation guidance
-- DEA controlled substance regulations
-- HIPAA / PHIA / PIPEDA privacy compliance
-- Insurance billing rules
-- Cross-border pharmaceutical shipping regulations
-
-Most of this knowledge currently lives in **PDF documents, government guidance pages, and institutional expertise**, making it difficult for developers and operators to use programmatically.
-
-### Goal
-
-Build language models that can assist with:
-
-- interpreting healthcare regulations
-- validating pharmacy workflows
-- auditing compliance procedures
-- explaining insurance claim responses
-- identifying regulatory risk in software systems
-
-
-## Infrastructure & Technologies
-
-### Backend
-
-- Node.js / Bun
-- TypeScript
-- Python
-- Ruby
-
-### Databases
-
-- PostgreSQL
-- MySQL
-- PlanetScale
-
-### Infrastructure
-
-- DigitalOcean
-- Cloudflare
-- MinIO (S3 compatible storage)
-- Tailscale
-- Linux systemd services
-
-### Web
-
-- Next.js
-- React
-- API-first architecture
-
-### Integrations
-
-- NCPDP D.0
-- EDI systems
-- Insurance networks
-- Shipping carriers
-- Payment processors
-
----
-
-## Engineering Philosophy
-
-I believe good systems should be:
-
-- **Simple**
-- **Observable**
-- **Auditable**
-- **Deterministic**
-- **Built to last**
-
-Healthcare systems in particular must prioritize **reliability and compliance over hype**.
-
-The best infrastructure is infrastructure nobody has to think about.
-
----
-
-## Other Projects
-
-Beyond healthcare infrastructure I explore:
-
-- Distributed file systems
-- Autonomous trading systems
-- Game development
-- Developer tooling
-- Secure infrastructure design
-
----
-
-## Interests
-
-Outside of engineering I enjoy:
-
-- Ancient history (especially Greece)
-- Systems design
-- Game development
-- Finance and markets
-- Cybertruck engineering
-
----
-
-## Contact
-
-Development inquiries:
 
 development@parkwaypharmacy.ca
-
----
-
-*"Build systems that still work ten years later."*
