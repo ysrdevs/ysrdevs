@@ -102,44 +102,6 @@ Build language models that can assist with:
 - explaining insurance claim responses
 - identifying regulatory risk in software systems
 
-### Training Data Sources
-
-Example structured and unstructured datasets include:
-
-- NCPDP telecommunications standards
-- FDA regulatory guidance
-- DEA controlled substance regulations
-- Health Canada drug regulations
-- insurance claim specifications
-- pharmacy operations SOPs
-- shipping compliance documentation
-- anonymized claim response data
-
-### Potential Applications
-
-- **Compliance copilots for pharmacy operators**
-- **Automated audit assistants**
-- **Developer tools for healthcare APIs**
-- **Real-time claim interpretation**
-- **Regulatory change monitoring**
-
-### Challenges
-
-Healthcare compliance models must prioritize:
-
-- factual correctness
-- traceable citations
-- regulatory jurisdiction awareness
-- privacy preservation
-- deterministic outputs where required
-
-Unlike general LLM applications, **incorrect answers in healthcare systems can have regulatory or legal consequences**, so system design must incorporate verification and structured validation layers.
-
-### Long-Term Vision
-
-The long-term goal is to build **AI systems that understand healthcare regulations deeply enough to assist in designing compliant software systems and operational workflows.**
-
-These systems should function less like chatbots and more like **compliance engines that help healthcare infrastructure operate safely and legally at scale.**
 
 ## Infrastructure & Technologies
 
