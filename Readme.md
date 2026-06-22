@@ -29,7 +29,7 @@ I design and build systems that process millions in medication inventory, claims
 
 ### Stack
 
-TypeScript · Node.js · Bun · Python · Next.js · React · PostgreSQL · MySQL · DigitalOcean · Cloudflare · NCPDP D.0 · EDI
+TypeScript · Node.js · Bun · Python · React · C# · Frida · Ghidra · SQL · NCPDP D.0
 
 ---
 
