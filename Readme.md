@@ -16,6 +16,8 @@ I design and build systems that process millions in medication inventory, claims
 
 **Shipping Infrastructure** — Custom logistics automation for medication fulfillment across US and Canada. FedEx, DHL, Canada Post, cold-chain, cross-border compliance.
 
+**macOS Gaming Tools** - Developing native Apple Silicon game mods and tools
+
 ---
 
 ### Open Source
